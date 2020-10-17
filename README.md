@@ -19,7 +19,7 @@ We are a Data Analytics team that .....
     <td>Programmer Analyst</td>
   </tr>
   <tr>
-    <td>Ashley L.E. Dacosta></td>
+    <td>Ashley L.E. Dacosta</td>
     <td>Programmer Analyst</td>
   </tr>
   <tr>
