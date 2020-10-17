@@ -32,7 +32,7 @@ We are a Data Analytics team that .....
 
 ## Project Overview
 PURPOSE/SCOPE: <br/>
-The purpose of our project is to prove that Netflix is the top streaming service of choice. We will examine Netflix, Hulu, Amazon Prime, and Disney+ datasets to show that Netflix has the highest overall IMDB ratings, variety of genres, number of new releases, number of original shows, variety of MPAA film ratings, growth in subscribers in the last 10 years, and overall value, as the data admits. <br/><br/>
+The purpose of our project is to prove that Netflix is the top streaming service of choice. We will examine Netflix, Hulu, Amazon Prime, and Disney+ datasets to show that Netflix has the highest overall IMDB ratings, variety of genres, number of new releases, number of original shows, variety of MPAA film ratings, growth in subscribers in the last 10 years, and overall value, as the data admits. https://docs.google.com/document/d/1-MQRt3X8zItocfS9pvL_s_i0NB57YaRbF6UExKDZGrc/edit?usp=sharing<br/><br/>
 
 
 ## Let's Go to the Analysis
