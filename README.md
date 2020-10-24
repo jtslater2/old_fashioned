@@ -1,9 +1,7 @@
 # OLD_FASHIONED
 
-We are a Data Analytics team that wanted to figure out what the best streaming service is currently the best. To do this, we broke it down by several different categories. We looked at variety of genres, how much content, what was popular with each age group and stock trends. Our hypothesis was that since netflix was the oldest, it would come out first in these categories. In this repository, there are several scripts with these categories broken down to see how we came to our conclusion.
+We are a Data Analytics team that wanted to figure out what the best streaming service is currently the best. 
 
-## Overview
-**Data Analysis on**<br/><br />
 
 
 ## Project Team / Organization
@@ -36,6 +34,5 @@ The purpose of our project is to prove that Netflix is the top streaming service
 
 
 ## Let's Go to the Analysis
-We wanted to .. <br/> <br />
+We broke our data down by several different categories. We looked at variety of genres, how much content, what got the best ratings, what was popular with each age group and stock trends. Our hypothesis was that since netflix was the oldest, it would come out first in these categories. In this repository, there are several scripts with these categories broken down to see how we came to our conclusion.
 
-- Utilizing this. 
